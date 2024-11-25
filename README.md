@@ -12,16 +12,20 @@ This project aims to help users understand lottery logic while providing insight
 - Randomly generates lottery numbers.
 - Supports customizable parameters:
   - Number of draws.
-  - Number range.
 - Statistical analysis:
   - Frequency of number occurrences.
   - Simulated win scenarios.
 
 ---
+## **Rules Reference**
+The rules for this lottery simulator are based on the official Bingo Bingo game. For more details, please visit:  
+[Taiwan Lottery - Bingo Bingo](https://www.taiwanlottery.com/lotto/info/bingo_bingo)
+
+---
 
 ## **Technologies Used**
 - **Programming Language**: C#.
-- **Framework**: ASP.NET Core / Console Application (adjust based on your application architecture).
+- **Framework**: Windows Form App(.NET Framework)
 - **Development Tools**: Visual Studio 2022.
 
 ---
