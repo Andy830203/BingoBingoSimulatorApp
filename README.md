@@ -42,7 +42,7 @@ This project aims to help users understand lottery logic while providing insight
 ---
    
 ## **Example Screenshots**
-![GITHUB]( 圖片網址 "圖片名稱")
+![GITHUB](screenshot.png)
 
 ---
 
