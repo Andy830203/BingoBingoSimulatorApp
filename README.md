@@ -32,4 +32,25 @@ This project aims to help users understand lottery logic while providing insight
    git clone https://github.com/Andy830203/BingoBingoSimulatorApp.git
    cd BingoBingoSimulatorApp
 2. **Open the project:**:
-   Launch BingoBingoSimulatorApp.sln using Visual Studio.
+   - Launch BingoBingoSimulatorApp.sln using Visual Studio.
+3. **Run the application**:
+   - Select the execution mode (e.g., Debug) and click Start to run the program.
+4. **How to use**:
+   - Follow on-screen instructions to input parameters, such as the number range or the number of draws.
+   - View simulation results in the console.
+  
+---
+   
+## **Example Screenshots**
+![GITHUB]( 圖片網址 "圖片名稱")
+
+---
+
+## **Project Structure**
+  ```bash
+  BingoBingoSimulatorApp/
+  ├── BingoBingoSimulatorApp.sln       # Solution file
+  ├── Program.cs                       # Main program entry
+  ├── Models/                          # Data models
+  ├── Services/                        # Business logic
+  ├── README.md                        # This file
