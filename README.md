@@ -46,11 +46,4 @@ This project aims to help users understand lottery logic while providing insight
 
 ---
 
-## **Project Structure**
-  ```bash
-  BingoBingoSimulatorApp/
-  ├── BingoBingoSimulatorApp.sln       # Solution file
-  ├── Program.cs                       # Main program entry
-  ├── Models/                          # Data models
-  ├── Services/                        # Business logic
-  ├── README.md                        # This file
+
